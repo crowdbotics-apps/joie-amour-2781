@@ -1,0 +1,3 @@
+rootProject.name = 'joie_amour_2781'
+
+include ':app'
